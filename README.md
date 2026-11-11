@@ -1,11 +1,11 @@
-# TikTok LIVE Chat
+# Ultimative Chat
 
-TikTok LIVE Chat is a Python application for real-time monitoring of TikTok livestreams. It displays chat messages, gifts/donations, viewer entries, likes, and viewer avatars in a split-panel interface.
+Ultimative Chat is a Python application for real-time monitoring of TikTok livestreams. It displays chat messages, gifts, viewer entries, likes, and viewer avatars in a split-panel interface.
 
 ## Features
 
 - **Chat messages** — real-time viewer comments
-- **Donations (gifts)** — gift name, diamonds, and repeat count
+- **Gifts** — gift name, diamonds, and repeat count
 - **Viewer entries** — notifications when users join the stream
 - **Likes** — like counts and totals
 - **Viewer avatars** — automatically loaded and cached
